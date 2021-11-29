@@ -1,7 +1,7 @@
 <!--Заполни чуть позже в VS-->
 <!--    ![Willkomen to Abius CompleX](.github/willkommen.png)   -->
 
-![Добро пожаловать в Abius CompleX](.github/wp.png)
+![Добро пожаловать в Abius CompleX](.github/profile/wp.png)
 
 ## Стать участником
 
